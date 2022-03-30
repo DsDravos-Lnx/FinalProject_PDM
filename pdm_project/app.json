@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "pdm_project",
+    "slug": "pdm_project",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
